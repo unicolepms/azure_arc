@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "sshRSAPublicKey": {
-      "value": "ssh-rsa 2048 SHA256:3GjfuZ1SOAE5VedOTbkPnQSq4ZpwEuKQTVrjcuqh/Sc"
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC/kpXNjllmn/f1cp7tcxgrORmbflAZz8IFPfmRT7l9+LLpyZHu98bdKKwBu4yFZ375qfMTUkjxl2DAmzOl8ub6PTxYK1CXMaI9GhNCrnAp8WejJTBhYzZu3qr5F26gm6+mEdx0BFNsTIl1r3joc3/MgHx4YfR1Sxq7YtR5Sn2U+A1UtJCgbYEGrEPInMbkEhG32ih930gnA1k7SWP4EROhj8lu09pi1ndntHXwPKG4bfH/Q6ckkwUXhDew6WZnWgk3xec+KRX6BuhFqZ8SviwceNW+vzn/zxnVARctjZtcuJaeA76JSAht4p5Bu2XGQBTIt3MbFUC7oyWosc9mp80ORYt91dKHFr8TwuQP6gMaLV5lSPlzVVE1rDzoOzUL6CoI7z9ZLEkIM0jkJHGDPx2v8v5EM7AfbRqLS948k4rYC/oJ/jBqZS39xdJB+N22IwHhtFRGKJmLNnyKMb2RkPtCGmNiMPOvYgt9QbsLtvjpObo60yZmkzB6TW5+ZXFf5z9Ny1elu16bAvhKczdI3yRmAyObnO78DuHKLcj3aD1+7Op1uLseYftcrKQdmBViiXpMy7ngUJnQInBSv32CQ3klQF6Gnt6b1fHvvFexgKmmsbKr1e5dv2t6i/N+f8fz/mlSIXfJG24p7LTxZ2tDfgFhhxgOKnf0rPnFXxsU3g18LQ== EUROPE+nicolepham@MININT-2U2N8QJ"
     },
     "spnClientId": {
       "value": "ad136834-615e-474b-a964-5ecc9483ce42"
